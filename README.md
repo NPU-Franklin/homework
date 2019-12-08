@@ -1,3 +1,3 @@
 # Homework
-project design homework（说明文档正努力编写中……）
+project design homework（详细参见README目录😂😉🤞）
 
